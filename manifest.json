@@ -1,0 +1,9 @@
+{
+  "name": "Atelier PL — Gestion d’atelier",
+  "short_name": "Atelier PL",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#e45d2f",
+  "description": "Gestion d’atelier poids lourd"
+}
